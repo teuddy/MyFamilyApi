@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/teuddy/MyFamilyApi/issues"
   },
-  "homepage": "https://github.com/teuddy/MyFamilyApi#readme"
+  "homepage": "https://github.com/teuddy/MyFamilyApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
