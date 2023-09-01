@@ -1,0 +1,19 @@
+{
+  "name": "myfamilyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teuddy/MyFamilyApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teuddy/MyFamilyApi/issues"
+  },
+  "homepage": "https://github.com/teuddy/MyFamilyApi#readme"
+}
